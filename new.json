@@ -3,10 +3,22 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2122m13",
+         "name":"vs Newcastle",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"premier2122m11",
          "name":"vs Watford",
          "animated_sticker_pack":false,
          "stickers":"16"
+      },
+      {
+         "identifier":"premier2122m10",
+         "name":"vs Leicester",
+         "animated_sticker_pack":false,
+         "stickers":"24"
       },
       {
          "identifier":"alexandrelacazette1",
@@ -22,15 +34,9 @@
       },
       {
          "identifier":"team2021a",
-         "name":"Team 2021 (1)",
+         "name":"Team 2021",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },
-      {
-         "identifier":"team2021b",
-         "name":"Team 2021 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"24"
       },
       {
          "identifier":"goal2021",

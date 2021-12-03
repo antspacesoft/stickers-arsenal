@@ -16,15 +16,9 @@
       },
       {
          "identifier":"team2021a",
-         "name":"Team 2021 (1)",
+         "name":"Team 2021",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },
-      {
-         "identifier":"team2021b",
-         "name":"Team 2021 (2)",
-         "animated_sticker_pack":false,
-         "stickers":"24"
       }
    ]
 }
