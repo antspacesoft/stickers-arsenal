@@ -1,0 +1,66 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.arsenal",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"premier2122m11",
+         "name":"vs Watford",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"alexandrelacazette1",
+         "name":"Alexandre Lacazette",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pierreemerickaubameyang1",
+         "name":"Pierre-Emerick Aubameyang",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"team2021a",
+         "name":"Team 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"team2021b",
+         "name":"Team 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"goal2021",
+         "name":"Goal 2021",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"animated1",
+         "name":"Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"mikelarteta1",
+         "name":"Mikel Arteta",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
