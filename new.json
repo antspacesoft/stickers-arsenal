@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2122m18",
+         "name":"vs Leeds",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"premier2122m17",
          "name":"vs West Ham",
          "animated_sticker_pack":false,
