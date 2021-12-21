@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"carabao2122cf",
+         "name":"vs Sunderland",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
          "identifier":"premier2122m18",
          "name":"vs Leeds",
          "animated_sticker_pack":false,
