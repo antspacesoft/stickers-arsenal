@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bukayosaka1",
+         "name":"Bukayo Saka",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"martinodegaard1",
+         "name":"Martin Odegaard",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"alexandrelacazette1",
          "name":"Alexandre Lacazette",
          "animated_sticker_pack":false,
