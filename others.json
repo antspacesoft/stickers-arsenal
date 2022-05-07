@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"emojis1",
+         "name":"Emojis 1",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"happyeaster1",
          "name":"Happy Easter",
          "animated_sticker_pack":false,
