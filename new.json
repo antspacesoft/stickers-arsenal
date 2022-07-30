@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"emiratescup22",
+         "name":"vs Sevilla",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"premier2122m38",
          "name":"vs Everton",
          "animated_sticker_pack":false,
