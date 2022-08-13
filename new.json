@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m2",
+         "name":"vs Leicester",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Team 2022-2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"premier2223m1",
          "name":"vs Crystal Palace",
          "animated_sticker_pack":false,
