@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"uel2223fg2",
+         "name":"vs PSV",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"uel2223fg4",
-         "name":"vs Bodo",
+         "name":"vs Bodo (2)",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
@@ -22,7 +28,7 @@
       },
       {
          "identifier":"uel2223fg3",
-         "name":"vs Bodo",
+         "name":"vs Bodo (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
