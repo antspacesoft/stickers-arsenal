@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"uel2223fg6",
+         "name":"vs Zurich (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"uel2223fg2",
          "name":"vs PSV",
          "animated_sticker_pack":false,
@@ -22,7 +28,7 @@
       },
       {
          "identifier":"uel2223fg1",
-         "name":"vs Zurich",
+         "name":"vs Zurich (1)",
          "animated_sticker_pack":false,
          "stickers":"28"
       }
