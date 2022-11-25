@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022GBenglandvsiran",
+         "name":"England vs USA",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022england3",
+         "name":"England vs Iran",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022england2",
          "name":"Qatar 2022 England 1",
          "animated_sticker_pack":false,
