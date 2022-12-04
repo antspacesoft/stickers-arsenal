@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022o4a",
+         "name":"England vs Senegal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o4b",
+         "name":"England vs Senegal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022GBwalesvsengland",
          "name":"England vs Wales",
          "animated_sticker_pack":false,
