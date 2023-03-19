@@ -4,6 +4,18 @@
    "sticker_packs":[
       {
          "identifier":"premier2223m27a",
+         "name":"vs Crystal Palace (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"premier2223m27b",
+         "name":"vs Crystal Palace (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"premier2223m27a",
          "name":"vs Fulham (1)",
          "animated_sticker_pack":false,
          "stickers":"15"
