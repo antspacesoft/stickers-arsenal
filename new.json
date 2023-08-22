@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2324a",
+         "name":"Kit 23-24 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"kit2324b",
+         "name":"Kit 23-24 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"kit2324c",
+         "name":"Kit 23-24 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"facommunityshield2223f1",
          "name":"vs Manchester City (2)",
          "animated_sticker_pack":false,
