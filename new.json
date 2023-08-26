@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2324a1",
+         "name":"Team 2023-2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"team2324a2",
+         "name":"Team 2023-2024 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"kit2324a",
          "name":"Kit 23-24 (1)",
          "animated_sticker_pack":false,
