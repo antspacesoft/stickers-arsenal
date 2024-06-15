@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024goal1",
+         "name":"England Goal",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"euro2024team1",
          "name":"Team Euro 2024",
          "animated_sticker_pack":false,
