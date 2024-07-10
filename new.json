@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024s1",
+         "name":"vs Netherlands",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024c1",
          "name":"vs Switzerland",
          "animated_sticker_pack":false,
