@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2024",
+         "name":"Team 2024-2025",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"euro2024team1",
          "name":"Team Euro 2024",
          "animated_sticker_pack":false,
