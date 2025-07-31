@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Kit Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Kit Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"ucl2425c2",
          "name":"vs Real Madrid (2)",
          "animated_sticker_pack":false,

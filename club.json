@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Kit Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Kit Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"kit2425a",
          "name":"Kit 24-25 (1)",
          "animated_sticker_pack":false,
