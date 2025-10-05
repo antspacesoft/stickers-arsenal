@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2526",
+         "name":"Team 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },         
+      {
+         "identifier":"kit2526c",
+         "name":"Kit Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },        
+      {
          "identifier":"kit2526a",
          "name":"Kit Home 25-26",
          "animated_sticker_pack":false,
