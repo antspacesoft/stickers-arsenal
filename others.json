@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2526s3",
+         "name":"vs Atletico Madrid (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2526s2",
+         "name":"vs Atletico Madrid (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },         
+      {
          "identifier":"facommunityshield2223f1",
          "name":"vs Manchester City (2)",
          "animated_sticker_pack":false,
