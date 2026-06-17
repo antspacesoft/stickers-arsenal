@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026fg1",
+         "name":"vs Croatia",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },      
+      {
+         "identifier":"worldcup2026england2",
+         "name":"England Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2026england1",
+         "name":"England Portraits (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },        
+      {
          "identifier":"worldcup2026paniniengland1",
          "name":"World Cup 2026 Panini",
          "animated_sticker_pack":false,
