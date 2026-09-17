@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2627TEAMportraits1",
+         "name":"UCL Portraits (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627TEAMportraits2",
+         "name":"UCL Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
+         "identifier":"ucl2627TEAMportraits3",
+         "name":"UCL Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
          "identifier":"kit2627c",
          "name":"Kit Third 26-27",
          "animated_sticker_pack":false,
